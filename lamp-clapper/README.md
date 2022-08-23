@@ -8,7 +8,7 @@ Arduino Project which takes in signal from user or source and transmit the frequ
 Like the established “The Clapper”, this experiment will reflex from a given sound and pattern. Once this has successfully operated as expected, we then move on to another process. This next step is to activate based on pitch in frequency instead of sound.
 
 ### Introduction
-This project was inspired by a college student’s perspective. After hours of lectures, study sessions and being away from the dorm, we still have to review assignments and research as experiential learning.
+This project was inspired from a college student’s perspective. After hours of lectures, study sessions and being away from the dorm, we are drained by the end of day and still have to research or review assignments. During moments of late night studying we are sometimes far from the lights and tend to fall asleep; at least I do at times... 👀. This project is the solution to simply our life by "vocally" triggering the lights without getting out of our comfty bed. 
 
 ### Materials
 - Lamp with a power plug
