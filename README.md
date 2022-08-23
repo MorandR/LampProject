@@ -24,7 +24,8 @@ This project was inspired by a college student’s perspective. After hours of l
 
 
 Identify the positive wire (usually copper) on the lamp’s cord:
-The lamp’s plug has two blades of different widths. The widest blade is known as the neutral blade as the narrow blade is known as the hot blade.
+The lamp’s plug has two blades of different widths. 
+The widest blade is known as the neutral blade as the narrow blade is known as the hot blade.
 The hot blade is connected to the positive wire
 The neutral blade is connected to the neutral wire
 
@@ -38,12 +39,12 @@ Relay Module (terminal side): <br/>
 Insert the plug-sided wire in the NO input <br/>
 Insert the lamp-sided wire in the COM input (middle) <br/><br/>
 
-<u> Relay pins to Arduino </u> <br/>
+#### <ins> Relay pins to Arduino </ins> <br/>
 Connect Relay Ground (-) pin to Arduino Ground pin <br/>
 Connect Relay 5V VCC  (+) pin to Arduino 5V power <br/>
 Connect Relay Input Signal (S) pin to Arduino’s Digital socket (between 2 and 13 ONLY) <br/>
 
-Sound sensor pins to Arduino_ <br/>
+#### <ins> Sound sensor pins to Arduino </ins> <br/>
 Connect Sensor output (OUT) pin to Arduino’s Digital socket (between 2 and 13 ONLY) <br/>
 Connect Sensor Ground (GND) pin to Arduino Ground pin <br/>
 Connect Senor VCC <br/>
@@ -55,7 +56,7 @@ Comments are displayed in the code itself. Click __here__ to view the code and c
 ### Glossary
 
 COM
-: Common terminal <br/>
+:   Common terminal <br/>
 GND (Ground) – the reference point for all signals or a common path in an electrical circuit where all of the voltages can be measured from. <br/>
 NC (Normally Closed terminal)  – keep the Relay closed so no circuit flows through, unless a signal is sent to open and stop the circuit. <br/>
 NO (Normally Open terminal) – allows circuit to come through automatically unless a signal is sent to close the circuit. <br/>
