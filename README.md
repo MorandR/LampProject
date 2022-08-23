@@ -11,14 +11,14 @@ Like the established “The Clapper”, this experiment will reflex from a given
 This project was inspired by a college student’s perspective. After hours of lectures, study sessions and being away from the dorm, we still have to review assignments and research as experiential learning.
 
 ### Materials
-> Lamp with a power plug
-> Arduino Uno R3 Board
-> Mini Breadboard
-> Sound Sensor Module
-> Relay Module (5V)
-> 9V  Battery Clip
-> 9V  Battery
-> Dupont Wires
+> Lamp with a power plug__
+> Arduino Uno R3 Board__
+> Mini Breadboard__
+> Sound Sensor Module__
+> Relay Module (5V)__
+> 9V  Battery Clip__
+> 9V  Battery__
+> Dupont Wires__
 
 Developers Tool: Arduino IDE 1.8.19
 
@@ -30,7 +30,7 @@ The neutral blade is connected to the neutral wire
 
 ![Alt text](Image URL)
 
-Electrical Wiring Instructions:
+#### Electrical Wiring Instructions:
 
 Cut the wire corresponding to the hot blade
 Cut off the polar wire  to reveal only the copper.
@@ -61,7 +61,7 @@ VCC (Voltage Common Collector) – the higher voltage with respect to GND (groun
 
 ### References
 
-Plug labels - https://www.boulderufixitclinic.org/lamp-repair
+Plug labels - https://www.boulderufixitclinic.org/lamp-repair__
 Knowledge - https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/
 
 
