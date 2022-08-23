@@ -29,7 +29,7 @@ The widest blade is known as the neutral blade as the narrow blade is known as t
 The hot blade is connected to the positive wire
 The neutral blade is connected to the neutral wire
 
-![Alt text](Image URL)
+![clapper example](./visuals/file_name)
 
 #### Electrical Wiring Instructions:
 
