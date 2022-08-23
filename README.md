@@ -11,7 +11,7 @@ Like the established “The Clapper”, this experiment will reflex from a given
 This project was inspired by a college student’s perspective. After hours of lectures, study sessions and being away from the dorm, we still have to review assignments and research as experiential learning.
 
 ### Materials
-> Lamp with a power plug__
+> Lamp with a power plug __
 > Arduino Uno R3 Board__
 > Mini Breadboard__
 > Sound Sensor Module__
