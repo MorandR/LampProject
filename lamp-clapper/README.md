@@ -10,17 +10,28 @@ Like the established “The Clapper”, this experiment will reflex from a given
 ### Introduction
 This project was inspired from a college student’s perspective. After hours of lectures, study sessions and being away from the dorm, we are drained by the end of day and still have to research or review assignments. During moments of late night studying we are sometimes far from the lights and tend to fall asleep; at least I do at times... 👀. This project is the solution to simply our life by "vocally" triggering the lights without getting out of our comfty bed. 
 
-### Materials
-- Lamp with a power plug
-- Arduino Uno R3 Board
-- Mini Breadboard
-- Sound Sensor Module
-- Relay Module (5V)
-- 9V  Battery Clip
-- 9V  Battery
-- Dupont Wires
+<h3 class='material-list'> Materials </h3>
 
-- Developers Tool: Arduino IDE 1.8.19
+<div class='materials-list'>
+<ul>
+<li>Lamp with a power plug</li>
+<li>Arduino Uno R3 Board</li>
+<li>Sound Sensor Module</li>
+<li>Relay Module (5V)</li>
+<li>9V  Battery Clip</li>
+<li>9V  Battery</li>
+<li>Dupont Wires</li> <br/>
+
+<li>Developers Tool: Arduino IDE 1.8.19</li>
+</ul>
+</div>
+
+<div alt='lamp.gif'>
+<img src="./visuals/lamp.gif" width="168" height="275"/>
+</div>
+
+</div>
+
 
 
 Identify the positive wire (usually copper) on the lamp’s cord:
@@ -28,8 +39,6 @@ The lamp’s plug has two blades of different widths.
 The widest blade is known as the neutral blade as the narrow blade is known as the hot blade.
 The hot blade is connected to the positive wire
 The neutral blade is connected to the neutral wire
-
-![clapper example](./visuals/file_name)
 
 #### Electrical Wiring Instructions:
 
