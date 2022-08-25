@@ -50,7 +50,7 @@ Connect Senor VCC <br/>
 
 You may now begin the fun!
 
-Comments are displayed in the code itself. Click [here](/lamp_clapper.ino) to view the code and comments.
+Comments are displayed in the code itself. Click [here](./lamp_clapper.ino) to view the code and comments.
 
 ### Glossary
 
