@@ -13,12 +13,33 @@ This project was inspired from a college student’s perspective. After hours of
 ### Materials
 
 - Lamp with a power plug
-- Arduino Uno R3 Board
-- Sound Sensor Module
-- 9V  Battery Clip
-- 9V  Battery
+- Arduino Uno R3 Board 
+- Sound Sensor Module 
+- Relay Mondule
+- BreadBoard
+- 9V Battery Clip
+- 9V Battery
 - Dupont Wires <br/>
 - Developers Tool: Arduino IDE 1.8.19
+
+<!--Links and Price for materials-->
+<!--Arduino: $26.79
+ https://www.amazon.com/dp/B008GRTSV6?psc=1&ref=ppx_yo2ov_dt_b_product_details -->
+<!--Sound Sensor Modules: $6.29
+  https://www.amazon.com/dp/B00XT0PH10?psc=1&ref=ppx_yo2ov_dt_b_product_details-->
+<!--Relay Module: $5.50
+ https://www.amazon.com/dp/B00VRUAHLE?psc=1&ref=ppx_yo2ov_dt_b_product_details -->
+<!--BreadBoards: $10.99
+ https://www.amazon.com/dp/B09YN9PVY2?psc=1&ref=ppx_yo2ov_dt_b_product_details-->
+<!--9V Battery Clips: $5.99
+ https://www.amazon.com/dp/B01AXIEDX8?psc=1&ref=ppx_yo2ov_dt_b_product_details -->
+<!--Dupont Wires: $6.98
+ https://www.amazon.com/dp/B01EV70C78?ref=ppx_yo2ov_dt_b_product_details&th=1-->
+<!-- -->
+
+[//]: # (This is a comment)
+
+[comment]: <> (comment)
 
  <img  alt='lamp.gif' src="./visuals/lamp.gif" width="168" height="275"/>
   
