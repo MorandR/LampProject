@@ -59,7 +59,7 @@ Relay Module (terminal side): <br/>
 Insert the plug-sided wire in the NO input <br/>
 Insert the lamp-sided wire in the COM input (middle) <br/><br/>
 
-<img  alt='relay_pinout' src="./visuals/relay_pinout.png"
+<img  alt='relay_pinout' src="./visuals/relay_pinout.png" width="275" height="136"/>
 
 #### <ins> Relay pins to Arduino </ins> <br/>
 Connect Relay Ground (-) pin to Arduino Ground pin <br/>
