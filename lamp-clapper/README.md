@@ -49,7 +49,7 @@ The widest blade is known as the neutral blade as the narrow blade is known as t
 The hot blade is connected to the positive wire  <br/>
 The neutral blade is connected to the neutral wire  <br/>
 
- <img  alt='plug.label' src="./visuals/plug_label.png" width="275" height="152"/>
+ <img  alt='plug_label' src="./visuals/plug_label.png" width="275" height="152"/>
 
 #### Electrical Wiring Instructions:
 
@@ -58,6 +58,8 @@ Cut off the polar wire  to reveal only the copper. <br/>
 Relay Module (terminal side): <br/>
 Insert the plug-sided wire in the NO input <br/>
 Insert the lamp-sided wire in the COM input (middle) <br/><br/>
+
+<img  alt='relay_pinout' src="./visuals/relay_pinout.png"
 
 #### <ins> Relay pins to Arduino </ins> <br/>
 Connect Relay Ground (-) pin to Arduino Ground pin <br/>
