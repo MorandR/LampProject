@@ -69,7 +69,7 @@ Connect Relay Input Signal (S) pin to Arduino’s Digital socket (between 2 and 
 #### <ins> Sound sensor pins to Arduino </ins> <br/>
 Connect Sensor output (OUT) pin to Arduino’s Digital socket (between 2 and 13 ONLY) <br/>
 Connect Sensor Ground (GND) pin to Arduino Ground pin <br/>
-Connect Senor VCC <br/>
+Connect Senor VCC pin to the Adruino 5V Power <br/>
 
 You may now begin the fun!
 
