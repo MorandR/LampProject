@@ -1,7 +1,7 @@
 
 # Lamp "Clapper" Project
 
-## Utilizing Frequency of Pitch
+## Utilizing Decibel level
 
 ### Description
 Arduino Project which takes in signal from user or source and transmit the frequencies received to turn on and turn off lamp.
