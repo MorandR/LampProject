@@ -4,8 +4,8 @@
 ## Utilizing Decibel level
 
 ### Description
-Arduino Project which takes in signal from user or source and transmit the frequencies received to turn on and turn off lamp.
-Like the established “The Clapper”, this experiment will reflex from a given sound and pattern. Once this has successfully operated as expected, we then move on to another process. This next step is to activate based on pitch in frequency instead of sound.
+Arduino Project which takes in signal from user or source and transmit the dB levels received to turn on and turn off light.
+Like the established “The Clapper”, this experiment will reflex from a given sound and pattern. When the user claps twice, the light will either turn on or off.
 
 ### Introduction
 This project was inspired from a college student’s perspective. After hours of lectures, study sessions and being away from the dorm, we are drained by the end of day and still have to research or review assignments. During moments of late night studying we are sometimes far from the lights and tend to fall asleep; at least I do at times... 👀. This project is the solution to simply our life by "vocally" triggering the lights without getting out of our comfty bed. 
@@ -17,8 +17,8 @@ This project was inspired from a college student’s perspective. After hours of
 - Sound Sensor Module 
 - Relay Mondule
 - BreadBoard
-- 9V Battery Clip
 - 9V Battery
+- 9V Battery Clip
 - Dupont Wires <br/>
 - Developers Tool: Arduino IDE 1.8.19
 
@@ -41,7 +41,7 @@ This project was inspired from a college student’s perspective. After hours of
 
 [comment]: <> (comment)
 
- <img  alt='lamp.gif' src="./visuals/lamp.gif" width="168" height="275"/>
+ <img  alt='lamp.gif' src="./visuals/lamp_clapper_visual2.gif" width="168" height="275"/>
   
 Identify the positive wire (usually copper) on the lamp’s cord:  <br/>
 The lamp’s plug has two blades of different widths. <br/>
@@ -83,9 +83,17 @@ NC (Normally Closed terminal)  – keep the Relay closed so no circuit flows thr
 NO (Normally Open terminal) – allows circuit to come through automatically unless a signal is sent to close the circuit. <br/>
 VCC (Voltage Common Collector) – the higher voltage with respect to GND (ground). <br/>
 
+
+### Conclusion and Discoveries
+
+While trying to tune the sound sensor to pick up certain levels, the range seen was 33dB - 1023dB. This must've been a very sensitive sensor, but was still able to get the job done. Also, being that the sound sensor can only receive sound measured in dB, we would have to look into other supplies that would allow us to use and pick up certain frequencies to activate the light or maybe another project! <br/>
+To capture the claps, I've used a variable to measure the time difference and activate the relay switch if the difference is within a fixed range.
+
 ### References
 
 Plug labels - https://www.boulderufixitclinic.org/lamp-repair <br/>
 Knowledge - https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/
+
+
 
 
